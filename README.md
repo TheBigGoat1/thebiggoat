@@ -1,160 +1,191 @@
 
-<!-- ============================ -->
-<!--  THE BIGGOAT CYBER README 💀 -->
-<!-- ============================ -->
+# 👋 Hi, I'm **The Big GOAT** 🐐
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="The BigGoat — Banner" width="100%"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Blockchain+Developer;AI+%26+Machine+Learning+Engineer;Web3+Architect+%26+Smart+Contract+Auditor;Creative+Frontend+Artist;Backend+Systems+Specialist)](https://git.io/typing-svg)
 
-<h1 align="center">🐐 <span style="color:#00F6FF">The BigGoat</span></h1>
-<p align="center"><em>AI Developer • Automation Architect • Web3 Innovator</em></p>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/badges.svg" alt="neon badges" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/thebiggoat?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/thebiggoat?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=thebiggoat&color=00ff00)
 
----
+</div>
 
-### 💬 One Line
-> I build autonomous systems, ship production ML, and weave Web3 infra — all in neon.
+## 🚀 **About Me**
 
----
-
-## 🧠 Who is The BigGoat?
-I’m a **developer, AI engineer, and tech visionary** obsessed with creating tools that *think, react, and evolve* like living systems.  
-Everything I build — from voice AI studios to blockchain agents — echoes a single mantra:
-
-> “If code can breathe, then I can make it sing.”
-
-🛠 **Philosophy:** automation with emotion, logic with art, and data with depth.  
-🌍 **Base:** Earth — but mentally, somewhere in 2099.
-
----
-
-## ⚙️ Stacks That Power My World
-
-| Layer | Core Stacks | Description |
-|-------|--------------|--------------|
-| **AI & Machine Learning** | PyTorch · Transformers · LangChain · FAISS | From fine-tuning LLMs to agentic architectures |
-| **Backend Engineering** | FastAPI · Django · Flask · PostgreSQL · Redis · Celery | APIs, pipelines, async queues — all in sync |
-| **Automation & DevOps** | Docker · Kubernetes · Terraform · GitHub Actions | Scaling, deployment, CI/CD on steroids |
-| **Frontend & UI/UX** | React · Next.js · Tailwind · Framer Motion | Neon aesthetics meet functional interactivity |
-| **Blockchain & Web3** | Solidity · Hardhat · Ethers.js · The Graph · IPFS | Smart contracts and decentralized flows |
-
----
-
-## 🚀 Projects That Define The BigGoat
-
-| Project | Stack | Description |
-|----------|--------|-------------|
-| **🧩 AgentHub** | FastAPI · LangChain · WebRTC | Multi-agent conversational AI framework for businesses |
-| **🎙️ WAVETHINKK** | Flask · React · ElevenLabs API | Voice synthesis + TTS + real-time admin studio |
-| **💼 POS360 Africa** | Django · PostgreSQL · Chart.js | POS + Inventory + Data analytics for SMEs |
-| **🍴 Nairobi Eateries AI** | Flask · GPT · OpenStreetMap | Offline restaurant search AI — API-free local intelligence |
-
----
-
-## 🧰 The Craft
-
-```bash
-# Quick essence of my workflow
-git clone innovation
-cd vision
-code .
-while true; do
-   build --idea
-   deploy --automation
-   evolve --ai
-done
-````
-
----
-
-## 🌐 Neon Web Presence
-
-[![Portfolio](https://img.shields.io/badge/Website-TheBigGoat.dev-00f6ff?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/X-@TheBigGoat-8A2BE2?style=for-the-badge\&logo=x\&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TheBigGoat-ff2d95?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-TheBigGoat-00f6ff?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TheBigGoat)
-
----
-
-## 🧩 Architecture Philosophy
-
-I approach systems like organisms — **modular, adaptive, and self-healing**.
-
-* **Autonomous Layers:** every module has a feedback loop.
-* **Human-AI Harmony:** agents that *understand*, not just *execute*.
-* **Blockchain Integration:** identity, traceability, and decentralized logic baked in.
-* **Design Language:** cyberpunk neon meets precision engineering.
-
----
-
-## 🧬 Vision 2099
-
-> "By 2099, machines won’t just compute — they’ll collaborate."
-
-My mission is to **lead Africa’s AI revolution**, fusing automation, blockchain, and cognitive design into systems that amplify human capability.
-
----
-
-## ⚡ Featured Visuals
-
-<p align="center">
-  <img src="./assets/glowing-logo.svg" width="120" alt="BigGoat Neon Logo"/>
-</p>
-
-<p align="center">
-  <img src="./assets/banner.svg" width="90%" alt="BigGoat Banner"/>
-</p>
-
----
-
-## 🛰️ Workflow Example (CI/CD)
-
-GitHub Action for the neon pipeline:
-
-```yaml
-name: Neon Build
-on: [push, pull_request]
-jobs:
-  build-test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      - name: Install deps
-        run: pip install -r requirements.txt || echo "No requirements found"
-      - name: Build Success
-        run: echo "🚀 Neon pipeline complete — all systems green"
+```javascript
+const theBigGOAT = {
+  pronouns: "he" | "him",
+  code: ["Solidity", "Rust", "TypeScript", "Python", "Go", "C++"],
+  technologies: {
+    blockchain: ["Ethereum", "Solana", "Polygon", "Avalanche", "Cosmos"],
+    web3: ["Hardhat", "Truffle", "Web3.js", "Ethers.js", "Wagmi"],
+    frontend: ["React", "Next.js", "Vue", "Three.js", "WebGL"],
+    backend: ["Node.js", "Express", "FastAPI", "GraphQL", "PostgreSQL"],
+    ai_ml: ["TensorFlow", "PyTorch", "OpenAI", "LangChain", "HuggingFace"],
+    devOps: ["Docker", "Kubernetes", "AWS", "GCP", "CI/CD"],
+    tools: ["Git", "Linux", "VSCode", "Remix", "Foundry"]
+  },
+  architecture: ["Microservices", "Serverless", "DDD", "Event-Driven"],
+  currentFocus: "Building revolutionary DeFi protocols & AI-powered dApps",
+  funFact: "I can debug production issues while sleeping 😴"
+};
 ```
 
----
+## 🛠 **Technical Arsenal**
 
-## 🧿 Motto
+### **Blockchain & Web3**
+<div align="center">
 
-> “Don’t just code — architect intelligence.”
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
----
+</div>
 
-## 📬 Contact
+### **AI & Machine Learning**
+<div align="center">
 
-📧 **Email:** [hello@biggoat.dev](mailto:hello@biggoat.dev)
-🐦 **Twitter/X:** [@TheBigGoat](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F6FF&center=true&width=435&lines=Building+AI+Systems+of+Tomorrow;Web3+Automation+Architect;Digital+Nomad+of+the+Future" alt="Typing SVG" />
-</p>
+### **Frontend Mastery**
+<div align="center">
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-<p align="center">
-  <small>© 2025 The BigGoat — AI Dev of the Future 🐐</small>
-</p>
+</div>
+
+### **Backend & DevOps**
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+![The Big GOAT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebiggoat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebiggoat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thebiggoat&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00)
+
+</div>
+
+## 🎯 **Featured Projects**
+
+### 🤖 **AI-Powered Blockchain Projects**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **NeuroChain** | Decentralized AI model marketplace with on-chain inference | Python, Solidity, IPFS, TensorFlow |
+| **SmartAudit AI** | AI-driven smart contract vulnerability detection | Rust, ML, Blockchain, Security |
+| **Predictive DeFi** | Machine learning for yield farming optimization | PyTorch, Web3, Data Science |
+
+### 🌐 **Web3 & dApps**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **GoatSwap** | Advanced DEX with concentrated liquidity & MEV protection | Solidity, React, Graph Protocol |
+| **NFT Genesis** | Generative NFT platform with dynamic metadata | Hardhat, Next.js, Three.js |
+| **DeFi Vaults** | Yield aggregator with cross-chain capabilities | TypeScript, Node.js, Multi-chain |
+
+### 💻 **Full Stack Applications**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Enterprise Dashboard** | Real-time analytics with WebGL visualizations | Vue, D3, WebSocket, Microservices |
+| **Cloud Native Platform** | Scalable backend with event-driven architecture | Go, Kubernetes, Redis, PostgreSQL |
+| **Real-time Collaboration** | WebRTC based collaborative workspace | Socket.io, React, MediaStream API |
+
+## 🏆 **Achievements & Metrics**
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=thebiggoat&theme=radical&no-frame=true&row=2&column=4)
+
+</div>
+
+## 📈 **Development Activity**
+
+```mermaid
+graph TD
+    A[Code Development] --> B[Smart Contracts]
+    A --> C[Frontend UI/UX]
+    A --> D[Backend APIs]
+    A --> E[AI Models]
+    
+    B --> F[DeFi Protocols]
+    B --> G[NFT Marketplaces]
+    C --> H[Responsive Design]
+    C --> I[Web3 Integration]
+    D --> J[Microservices]
+    D --> K[Database Design]
+    E --> L[Predictive Analytics]
+    E --> M[Natural Language Processing]
 ```
 
+## 🎨 **Design Philosophy**
+
+```css
+.developer-mindset {
+  clean-code: "Always write code as if the next developer is a psychopath who knows where you live";
+  performance: "If it doesn't need to be fast, make it fast anyway";
+  security: "Trust no one, verify everything";
+  innovation: "Break things, but have a rollback plan";
+  learning: "The day you stop learning is the day you become obsolete";
+}
+```
+
+## 🔥 **Current Focus & Learning**
+
+- **Advanced Zero-Knowledge Proofs** (ZK-SNARKs, ZK-STARKs)
+- **Quantum-Resistant Cryptography**
+- **Decentralized AI Orchestration**
+- **Cross-Chain Interoperability Protocols**
+- **Real-time 3D Web Applications**
+
+## 📫 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thebiggoat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebiggoat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thebiggoat.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@thebiggoat.dev)
+
+</div>
+
+## 💡 **Random Dev Quote**
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **"Code is like humor. When you have to explain it, it's bad."** ⚡
+
+**Thanks for visiting!** Feel free to check out my repositories and don't hesitate to reach out for collaborations or just a tech chat! 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer)
+
+</div>
